@@ -1,3 +1,13 @@
+Algoritmo MiAlgoritmo
+Declaración
+Constantes
+{const1, const2}
+Tipos
+{tipo1, tipo2}
+Variables
+{var1, var2}
+Inicio
+Variables
+{var3}
 x = 5 + 3
-y = x * (2 - 4)
-z = sen(30) + cos(40)
+Fin
